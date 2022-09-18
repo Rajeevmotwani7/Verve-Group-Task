@@ -13,7 +13,7 @@ The sql query for the task is written in Google cloud Bigquery. The json data wa
 ## *Win Rate*
 **Calculation for win-rate is based on following formula:**
 
-```mermaid
+```
 Win Rate = Win events / Total events * 100
  
 Total events = Win events + Loss events
