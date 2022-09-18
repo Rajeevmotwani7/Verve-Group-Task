@@ -29,10 +29,13 @@ In order to increase the revenue, I would bid for the price that has a bitter wi
 
 Here, for outlier removal, I am using Inter Quantile Range(IQR) where
 
+```
 Q1 = first quartile
-Q3 = third quartile
-IQR = Q3 - Q1
 
+Q3 = third quartile
+
+IQR = Q3 - Q1
+```
 As a result the final table that I get is as below.
 
 **Table 1. Win Rate Data for application A**
